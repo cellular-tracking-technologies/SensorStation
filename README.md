@@ -6,7 +6,7 @@ If you are looking to purchased a fully assembled and tested SensorStation, comp
 
 # SensorStation Overview
 
-The SensorStation is a powerful platform for transmitting and receiving information wirelessly.
+The SensorStation is a powerful platform for transmitting and receiving information wirelessly, with multiple radio channels.
 
 While its primary function is to collect data from wildlife telemetry devices, it can be used for any multi-channel wireless
 application, including IoT, amateur radio, and building wireless networks.
