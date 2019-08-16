@@ -33,3 +33,5 @@ The SensorStation offers the following features:
 # SensorStation Acessories
 
 Also available for a variety of SensorStation accessories. You can even build your own. Check our our SensorStation Acessory Template to learn more.
+
+![SensorStation](https://github.com/cellular-tracking-technologies/SensorStation/blob/master/SensorStationCurrent1.png?raw=true)
