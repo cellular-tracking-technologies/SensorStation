@@ -26,7 +26,7 @@ The SensorStation offers the following features:
 * DS3231 real time clock with extreme accuracy along with coin cell slot
 * Composite video output
 * Wide range DC power input from 8-24VDC
-* 6 USB 2.0 ports, each with dedicated transaction translator
+* 6 USB 2.0 ports, each with dedicated transaction translator, typically used for Software Defined Radio (SDR)
 * SIM800C quad band GSM modem
 * eSIM (SIM on chip), soldered on if purchased from CTT (requires data plan)
 
